@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Vyas
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Typescript
+- 👀 I’m in Love with Coding
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on New Technologies
 - 📫 How to reach me Email - aditya.vyas@emeritus.org
 - 😄 Pronouns: He/Him
